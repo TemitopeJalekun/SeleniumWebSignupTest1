@@ -1,0 +1,1 @@
+{"uuid":"904069cc-6f2c-45e7-a624-c6c316a8bcc7","name":"SeleniumWebSignupTest1","children":["b364858c-135c-4de4-b28f-d07be8f685bd"],"befores":[],"afters":[{"name":"closeBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1694420700033,"stop":1694420700852}],"start":1694420667919,"stop":1694420700853}
